@@ -106,10 +106,17 @@ a:hover { color: red; }
     width: 100%;
 }
 
+#bookmarkletCallout {
+    bottom: 60px;
+    font-size: 13px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
 
-
-
-
+#bookmarkletCallout a {
+    font-weight: bold;
+}
 
 
 
