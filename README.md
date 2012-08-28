@@ -8,7 +8,7 @@ If you’re curious, I built the site as a joke for Jake (my [Instant.fm](http:/
 
 I rotated the emu once when Jake stepped away from his computer, and I can only assume that others have done the same. [EmuSpin.com](http://emuspin.com) is a tribute to Jake’s spinning emu.
 
-![Original EmuSpin Post](http://www.feross.org/wp-content/uploads/2011/05/emuspin_original_post.png)
+![Original EmuSpin Post](http://feross.org/images/emuspin-original-post.png)
 
 ## Emu ... Spin?
 
@@ -30,7 +30,7 @@ EmuSpin.com [made it to Reddit](http://www.reddit.com/r/WTF/comments/hbw59/emu_s
 
 > BEST WEBSITE EVER.
 
-![EmuSpin Stats](http://www.feross.org/wp-content/uploads/2011/05/emuspin_traffic-600x273.jpg)
+![EmuSpin Stats](http://feross.org/images/emuspin-traffic.jpg)
 
 I love the Internet.
 
