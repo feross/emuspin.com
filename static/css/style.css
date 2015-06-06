@@ -118,8 +118,8 @@ a:hover { color: red; }
 }
 
 #bookmarkletCallout {
-    bottom: 60px;
-    font-size: 13px;
+    bottom: 50px;
+    font-size: 12px;
     position: fixed;
     text-align: center;
     width: 100%;

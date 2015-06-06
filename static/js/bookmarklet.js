@@ -8,8 +8,7 @@ window.bookmarklet = true;
 yepnope({
 	load: [
 		'http://emuspin.com/js/libs/jquery-1.5.1.js',
-		'http://emuspin.com/js/plugins.js',
-		'http://emuspin.com/js/mylibs/soundmanager2-nodebug-jsmin.js'],
+		'http://emuspin.com/js/plugins.js'],
 	complete: function () {
 		// Replace all images
 		$('img').attr({
