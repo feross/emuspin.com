@@ -2,6 +2,6 @@
   "name": "feross.net",
   "version": "0.0.0",
   "scripts": {
-    "deploy": "git push && rsync -a -O -v --delete . future:'/home/feross/www/emuspin.com/'"
+    "deploy": "git push && ssh future 'cd /home/feross/www/emuspin.com && git pull'"
   }
 }
