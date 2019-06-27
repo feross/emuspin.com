@@ -1,0 +1,7 @@
+{
+  "name": "feross.net",
+  "version": "0.0.0",
+  "scripts": {
+    "deploy": "rsync -a -O -v --delete . future:'/home/feross/www/emuspin.com/'"
+  }
+}
